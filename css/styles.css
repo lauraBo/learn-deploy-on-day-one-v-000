@@ -213,6 +213,15 @@ a:visited {
     background-image: url("http://i.imgur.com/ukHympj.jpg");
 }
 
+#Laura-Bodell-cover {
+    background-image: url("http://i.imgur.com/oeITbBz.jpg");
+  }
+
+  #Laura-Bodell-card {
+    background-image: url("http://i.imgur.com/erh6LUp.jpg");
+  }
+
+
 #andrew-bonner-cover {
   background-image: url("http://i.imgur.com/lt1eyh8.jpg");
 }
@@ -486,7 +495,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5025,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
